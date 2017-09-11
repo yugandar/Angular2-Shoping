@@ -1,0 +1,18 @@
+h3 {
+    text-align: center;
+    text-decoration-style: solid;
+}
+.card-group{
+  padding-left:120px;
+  padding-right:30px;
+
+}
+.card-img-top{
+  margin: 30px;
+
+}
+h4{
+  font-size: 30px;
+  text-align: center;
+
+}
